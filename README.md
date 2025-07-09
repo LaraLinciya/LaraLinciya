@@ -78,6 +78,15 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 </p>
 
 ---
+## 🧩 LeetCode Progress
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Lara_Linciya?ext=contest"/>
+</p>
+
+[![](https://visitcount.itsvg.in/api?id=LaraLinciya&icon=0&color=0)](https://visitcount.itsvg.in)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=160&section=footer&animation=fadeIn)(https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=120&section=footer&animation=fadeIn)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LaraLinciya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -86,4 +95,4 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 
 [![](https://visitcount.itsvg.in/api?id=LaraLinciya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=120&section=footer&animation=fadeIn)
