@@ -86,4 +86,4 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 
 [![](https://visitcount.itsvg.in/api?id=LaraLinciya&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0be5a1,3e97ff&height=120&section=footer&animation=fadeIn)
