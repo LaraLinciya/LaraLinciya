@@ -55,7 +55,6 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 [![LeetCode](https://img.shields.io/badge/-LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Lara_Linciya/)  
 [![GeeksforGeeks](https://img.shields.io/badge/-GFG-14a800?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/linciyalara225/)  
 [![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LaraLinciya)
-📧 Email: linciyalara@gmail.com
 
 ---
 
