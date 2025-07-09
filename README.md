@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Lara%20Linciya!&fontSize=40&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=200&section=header&text=Hi,%20I'm%20Lara%20Linciya!&fontSize=40&fontColor=ffffff&animation=fadeIn)
 
 # 💫 About Me:
 🎓 Final-year Computer Science student at PSNA College of Engineering and Technology, Dindigul<br>
@@ -84,5 +84,6 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=LaraLinciya&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=160&section=footer&animation=fadeIn&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=30)
