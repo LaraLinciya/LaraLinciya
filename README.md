@@ -1,6 +1,10 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=200&section=header&text=Hi,%20I'm%20Lara%20Linciya!&fontSize=40&fontColor=ffffff&animation=fadeIn)
+<table align="center" width="100%" border="3" frame="box" rules="none" style="border-color:#333333; border-radius:20px; padding:24px">
+<tr><td>
 
-# 💫 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=200&section=header&text=Hi,%20I'm%20Lara%20Linciya!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+
+# ✨ About Me:
 🎓 Final-year Computer Science student at PSNA College of Engineering and Technology, Dindigul<br>
 💻 Aspiring Full Stack Developer passionate about building full-featured apps using React, Node.js, MongoDB, and Tailwind CSS<br>
 🧩 Strong in backend APIs, database integration, and UI/UX design<br>
@@ -10,7 +14,7 @@
 
 ---
 
-## 🚀 Projects
+## 🛠️ Projects
 
 ### 🔹 NextXen – Learning & Collaboration Platform 
 Connects students with similar interests for collaboration and knowledge sharing  
@@ -23,11 +27,15 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 
 ---
 
-## 📈 Problem Solving Progress
+## 🧠 Problem Solving Progress
 
-- 🔹 Solved 200+ DSA problems  
-- 🔹 Platforms: **LeetCode**, **GeeksforGeeks**, **Skillrack**  
-- 🔹 Strong grasp on **Data Structures**, **Algorithms**, and **Logical Thinking**
+🔹 Solved 200+ DSA problems  
+🔹 Platforms: **LeetCode**, **GeeksforGeeks**, **Skillrack**  
+🔹 Strong grasp on **Data Structures**, **Algorithms**, and **Logical Thinking**
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Lara_Linciya?ext=contest&theme=dark"/>
+</p>
 
 ---
 
@@ -78,12 +86,9 @@ Built with **Node.js** and **Socket.io**, includes message indicators and status
 </p>
 
 ---
-## 🧩 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Lara_Linciya?ext=contest"/>
-</p>
 
-[![](https://visitcount.itsvg.in/api?id=LaraLinciya&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=160&section=footer&animation=fadeIn&fontColor=ffffff&fontSize=30" width="100%"/>
 
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=ff6b6b,f06595&height=160&section=footer&animation=fadeIn&text=Thank%20you%20for%20visiting!&fontColor=ffffff&fontSize=30)
+</td></tr>
+</table>
