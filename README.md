@@ -5,12 +5,12 @@
 
 
 # ✨ About Me:
-🎓 Final-year Computer Science student at PSNA College of Engineering and Technology, Dindigul<br>
-💻 Aspiring Full Stack Developer passionate about building full-featured apps using React, Node.js, MongoDB, and Tailwind CSS<br>
-🧩 Strong in backend APIs, database integration, and UI/UX design<br>
-🚀 Currently building an Appointment Booking Website with real-time tracking and admin panel using the MERN stack<br>
-🏅 Participated in IEEE Xtreme 18.0 (Top 500 globally) and solved 100+ problems on LeetCode & GeeksforGeeks<br>
-🌐 Interested in SAP solutions and cross-platform development using Dart and Flutter<br>
+ Final-year Computer Science student at PSNA College of Engineering and Technology, Dindigul<br>
+ Aspiring Full Stack Developer passionate about building full-featured apps using React, Node.js, MongoDB, and Tailwind CSS<br>
+ Strong in backend APIs, database integration, and UI/UX design<br>
+ Currently building an Appointment Booking Website with real-time tracking and admin panel using the MERN stack<br>
+ Participated in IEEE Xtreme 18.0 (Top 500 globally) and solved 100+ problems on LeetCode & GeeksforGeeks<br>
+ Interested in SAP solutions and cross-platform development using Dart and Flutter<br>
 
 ---
 
